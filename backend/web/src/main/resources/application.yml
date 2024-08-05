@@ -1,0 +1,11 @@
+server:
+  port: 8091
+spring:
+  main:
+    banner-mode: off
+  profiles:
+    active: cache, doc, db
+
+
+
+
